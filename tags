@@ -1,0 +1,15 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+KakaoExtendSocialite	KakaoExtendSocialite.php	/^class KakaoExtendSocialite$/;"	c
+KakaoProvider	KakaoProvider.php	/^class KakaoProvider extends AbstractProvider implements ProviderInterface$/;"	c
+getAccessToken	KakaoProvider.php	/^    public function getAccessToken($code)$/;"	f
+getAuthUrl	KakaoProvider.php	/^    protected function getAuthUrl($state)$/;"	f
+getTokenFields	KakaoProvider.php	/^    protected function getTokenFields($code)$/;"	f
+getTokenUrl	KakaoProvider.php	/^    protected function getTokenUrl()$/;"	f
+getUserByToken	KakaoProvider.php	/^    protected function getUserByToken($token)$/;"	f
+handle	KakaoExtendSocialite.php	/^    public function handle(SocialiteWasCalled $socialiteWasCalled)$/;"	f
+mapUserToObject	KakaoProvider.php	/^    protected function mapUserToObject(array $user)$/;"	f

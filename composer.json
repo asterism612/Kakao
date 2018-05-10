@@ -1,0 +1,20 @@
+{
+    "name": "asterism612/kakao",
+    "description": "https://github.com/SocialiteProviders/Kakao 수정버전",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "asterism612",
+            "email": "relation612@gmail.com"
+        }
+    ],
+    "require": {
+        "php":"^7.0",
+        "socialiteproviders/manager": "~3.0"
+    },
+    "autoload":{
+      "psr-4": {
+        "Asterism612\\Kakao\\" : ""
+      }
+    }
+}
