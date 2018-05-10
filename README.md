@@ -9,7 +9,6 @@ https://github.com/SocialiteProviders/Kakao 의 수정버전
 ### EventServiceProvider -> protected $listen에 추가
 ```
 \SocialiteProviders\Manager\SocialiteWasCalled::class => [
-  // add your listeners (aka providers) here
   'Asterism612\\Kakao\\KakaoExtendSocialite@handle',
 ] 
 ```
